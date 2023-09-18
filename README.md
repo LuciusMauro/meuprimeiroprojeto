@@ -1,4 +1,4 @@
-# meuprimeiroprojeto
+# Meu Primeiro Projeto
 Meu primeiro projeto para aprendizagem sobre git
 
 ### IF Sul de Minas <h3>
