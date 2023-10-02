@@ -1,6 +1,6 @@
 # Projeto Testes e Aprendizagem
 Projeto para testes e aprendizagem
-### $\color{blue}{IF Sul de Minas}$<h3>
+### {IF Sul de Minas}<h3>
 #### Curso Técnico em Informática para Web <h4>
 ***
 **Disciplina :** Web 1 <br>
