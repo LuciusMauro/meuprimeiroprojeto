@@ -1,6 +1,5 @@
 # Projeto Testes e Aprendizagem
 Projeto para testes e aprendizagem
-***
 ### IF Sul de Minas<h3>
 #### Curso Técnico em Informática para Web <h4>
 ***
