@@ -1,0 +1,15 @@
+*{
+    margin: 0; padding: 0;
+}
+
+.esq {
+    text-align: left;
+}
+
+.meio {
+    text-align: center;
+}
+
+.dir {
+    text-align: right;
+}

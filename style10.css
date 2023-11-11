@@ -1,0 +1,22 @@
+*{
+    margin: 0; padding: 0;
+}
+
+nav ul {
+    background-color: aquamarine;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 10px 15px; 
+    list-style: none;        
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: rgb(253, 45, 55);    
+    transition: 1s ease;
+}
